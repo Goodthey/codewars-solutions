@@ -9,7 +9,7 @@ For example:
   ^        ^        ^
   n=0     n=1     n=2
 Note: Test cases contain valid input only - i.e. a string array or an empty array; and each word will have enough letters.
-
+...
 */
 
 function nthChar(words: string[]) {
